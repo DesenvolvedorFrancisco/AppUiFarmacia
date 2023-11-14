@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pharmacyCardViewRecycler</string>
+    <string name="cover"></string>
+    <string name="title_place_holder">Title Place Holder</string>
+    <string name="fabricante_placeholder">Fabricante placeHolder</string>
+
+</resources>
